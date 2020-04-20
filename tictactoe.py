@@ -10,7 +10,4 @@ def game_board(player=0, row=0, column=0, just_display=False):
         print(count, row)
 
 game_board(just_display=True)
-print("Hello Kirsty!")
-
-print("howd'y")
 
